@@ -1,16 +1,25 @@
-# React + Vite
+# Professional Portfolio - Gaganpreet Singh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! I am a **Junior Software Engineer Intern** and **Cloud/Agentic AI Enthusiast** focused on building scalable, automated, and AI-driven solutions.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[View Live Portfolio](https://portfolio-gaganpreet-devs.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, Vanilla CSS
+- **Backend & Automation**: Python, LLMs (Generative AI), Agentic AI Workflows
+- **Cloud & DevOps**: AWS (S3, App Runner, ECR), Azure (Admin), Docker, Git/GitHub
+- **Icons**: Lucide React
 
-## React Compiler
+## 📂 Key Projects
+### [Job Alert Agent](https://github.com/gaganpreet-dev/Job-Alert-Agent)
+AI-powered automation agent that scrapes job boards and sends personalized email alerts using LLMs for summarization.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+### Serverless Web App
+Fully serverless application using AWS App Runner & ECR. Dockerized for efficient container management.
 
-## Expanding the ESLint configuration
+### Data Visualization Dashboard
+Interactive dashboard for real-time KPIs and business metrics. Integrated multiple data sources (APIs, DBs).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Built with ❤️ by Gaganpreet Singh*

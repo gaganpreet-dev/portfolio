@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Github, Server, Database, Globe, Brain } from 'lucide-react';
+import { Github, Server, Database, Globe, Brain } from 'lucide-react';
 import './Projects.css';
 
 const Projects = () => {
@@ -9,7 +9,6 @@ const Projects = () => {
             description: 'AI-powered automation agent that scrapes job boards and sends personalized email alerts using LLMs for summarization.',
             tags: ['Python', 'AI Agents', 'LLM', 'SMTP'],
             icon: <Brain size={24} />,
-            link: 'https://github.com/gaganpreet-dev/Job-Alert-Agent',
             github: 'https://github.com/gaganpreet-dev/Job-Alert-Agent'
         },
         {
@@ -17,24 +16,21 @@ const Projects = () => {
             description: 'Fully serverless application using AWS App Runner & ECR. Dockerized for efficient container management.',
             tags: ['AWS', 'Docker', 'App Runner', 'ECR'],
             icon: <Server size={24} />,
-            link: '#',
-            github: 'https://github.com/gaganpreet-dev'
+            github: 'https://github.com/gaganpreet-dev/aws-serverless-app'
         },
         {
             title: 'Data Visualization Dashboard',
             description: 'Interactive dashboard for real-time KPIs and business metrics. Integrated multiple data sources (APIs, DBs).',
             tags: ['Python', 'SQL', 'API Integration'],
             icon: <Database size={24} />,
-            link: '#',
-            github: 'https://github.com/gaganpreet-dev'
+            github: 'https://github.com/gaganpreet-dev/data-viz-dashboard'
         },
         {
             title: 'Static Website on AWS',
             description: 'Responsive personal resume website using S3 static hosting with IAM roles and bucket policies.',
             tags: ['AWS S3', 'IAM', 'HTML/CSS'],
             icon: <Globe size={24} />,
-            link: '#',
-            github: 'https://github.com/gaganpreet-dev'
+            github: 'https://github.com/gaganpreet-dev/portfolio'
         }
     ];
 
@@ -52,7 +48,6 @@ const Projects = () => {
                             <div className="project-icon">{project.icon}</div>
                             <div className="project-links">
                                 <a href={project.github} target="_blank" rel="noreferrer"><Github size={20} /></a>
-                                <a href={project.link} target="_blank" rel="noreferrer"><ExternalLink size={20} /></a>
                             </div>
                         </div>
 
