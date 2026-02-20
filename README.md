@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio repository! I am a **Junior Software Engineer Intern** and **Cloud/Agentic AI Enthusiast** focused on building scalable, automated, and AI-driven solutions.
 
+![Portfolio Preview](./public/portfolio_preview.png)
+
 ## 🚀 Live Demo
 **[View Live Portfolio](https://portfolio-gaganpreet-devs.vercel.app/)**
 
