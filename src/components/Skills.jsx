@@ -12,7 +12,7 @@ const Skills = () => {
         {
             title: 'Cloud Platforms',
             icon: <CloudIcon size={24} />,
-            skills: ['AWS (S3, App Runner)', 'Azure (Admin)', 'Oracle (OCI)']
+            skills: ['AWS (S3, App Runner)', 'Azure (Admin)']
         },
         {
             title: 'DevOps & Tools',

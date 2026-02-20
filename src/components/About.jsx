@@ -12,17 +12,17 @@ const About = () => {
             <div className="about-grid">
                 <div className="about-text glass-card">
                     <p>
-                        I am an entry-level software developer with a strong foundation in Python, SQL, and web development, currently specializing in <strong>Cloud Computing</strong>, <strong>Agentic AI</strong>, and <strong>Generative AI</strong>.
+                        I am currently an intern working as a <strong>Junior Software Engineer</strong>, with a strong foundation in Python, SQL, and web development, specializing in <strong>Cloud Computing</strong>, <strong>Agentic AI</strong>, and <strong>Generative AI</strong>.
                     </p>
                     <p>
-                        My journey began at Chandigarh University, where I am pursuing my Bachelor of Technology. I've always been fascinated by how large-scale applications handle millions of users, which led me to dive deep into AWS, Azure, and OCI.
+                        I have completed my Bachelor of Technology in Computer Science and Engineering with a specialization in Cloud Computing from <strong>Chandigarh University</strong>. I've always been fascinated by how large-scale applications handle millions of users, which led me to dive deep into AWS and Azure.
                     </p>
                     <p>
                         I am enthusiastic about applying my analytical skills to build and optimize AI-driven applications in cloud environments. My goal is to grow into a role where I can automate everything—from code commits to autonomous agent workflows.
                     </p>
                     <div className="about-stats">
                         <div className="stat-item">
-                            <span className="stat-number">3+</span>
+                            <span className="stat-number">2+</span>
                             <span className="stat-label">Cloud Certs</span>
                         </div>
                         <div className="stat-item">
@@ -42,10 +42,6 @@ const About = () => {
                         <li>
                             <strong>Google Cloud Digital Leader</strong>
                             <span>GCP business application overview</span>
-                        </li>
-                        <li>
-                            <strong>Oracle Cloud Infrastructure Architect Associate</strong>
-                            <span>Core OCI services expertise</span>
                         </li>
                     </ul>
                 </div>
