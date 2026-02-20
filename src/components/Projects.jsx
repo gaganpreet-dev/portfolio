@@ -1,9 +1,17 @@
 import React from 'react';
-import { ExternalLink, Github, Server, Database, Globe } from 'lucide-react';
+import { ExternalLink, Github, Server, Database, Globe, Brain } from 'lucide-react';
 import './Projects.css';
 
 const Projects = () => {
     const projects = [
+        {
+            title: 'Job Alert Agent',
+            description: 'AI-powered automation agent that scrapes job boards and sends personalized email alerts using LLMs for summarization.',
+            tags: ['Python', 'AI Agents', 'LLM', 'SMTP'],
+            icon: <Brain size={24} />,
+            link: 'https://github.com/gaganpreet-dev/Job-Alert-Agent',
+            github: 'https://github.com/gaganpreet-dev/Job-Alert-Agent'
+        },
         {
             title: 'Serverless Web App',
             description: 'Fully serverless application using AWS App Runner & ECR. Dockerized for efficient container management.',

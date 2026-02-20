@@ -12,13 +12,13 @@ const About = () => {
             <div className="about-grid">
                 <div className="about-text glass-card">
                     <p>
-                        I am an entry-level software developer with a strong foundation in Python, SQL, and web development, currently specializing in <strong>Cloud Computing</strong> and <strong>DevOps</strong>.
+                        I am an entry-level software developer with a strong foundation in Python, SQL, and web development, currently specializing in <strong>Cloud Computing</strong>, <strong>Agentic AI</strong>, and <strong>Generative AI</strong>.
                     </p>
                     <p>
                         My journey began at Chandigarh University, where I am pursuing my Bachelor of Technology. I've always been fascinated by how large-scale applications handle millions of users, which led me to dive deep into AWS, Azure, and OCI.
                     </p>
                     <p>
-                        I am enthusiastic about applying my analytical skills to build and optimize applications in cloud environments. My goal is to grow into a role where I can automate everything—from code commits to production deployments.
+                        I am enthusiastic about applying my analytical skills to build and optimize AI-driven applications in cloud environments. My goal is to grow into a role where I can automate everything—from code commits to autonomous agent workflows.
                     </p>
                     <div className="about-stats">
                         <div className="stat-item">

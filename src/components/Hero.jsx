@@ -16,11 +16,11 @@ const Hero = () => {
                     </h1>
                     <h2 className="hero-subtitle">
                         Junior Software Engineer & <br />
-                        <span className="typewriter">Cloud / DevOps Enthusiast</span>
+                        <span className="typewriter">Gen AI, Agentic AI, Cloud & DevOps Enthusiast</span>
                     </h2>
                     <p className="hero-description">
-                        Building scalable, secure, and automated cloud solutions.
-                        Passionate about bridging the gap between development and operations.
+                        Building scalable, secure, and automated AI-driven solutions.
+                        Passionate about bridging the gap between Gen AI, Agentic systems, and Cloud Operations.
                     </p>
                     <div className="hero-actions">
                         <a href="#projects" className="btn btn-primary">
