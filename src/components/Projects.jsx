@@ -23,14 +23,14 @@ const Projects = () => {
             description: 'Interactive dashboard for real-time KPIs and business metrics. Integrated multiple data sources (APIs, DBs).',
             tags: ['Python', 'SQL', 'API Integration'],
             icon: <Database size={24} />,
-            github: 'https://github.com/gaganpreet-dev/data-viz-dashboard'
+            github: 'https://github.com/gaganpreet-dev/data-visualization-dashboard'
         },
         {
             title: 'Static Website on AWS',
             description: 'Responsive personal resume website using S3 static hosting with IAM roles and bucket policies.',
             tags: ['AWS S3', 'IAM', 'HTML/CSS'],
             icon: <Globe size={24} />,
-            github: 'https://github.com/gaganpreet-dev/portfolio'
+            github: 'https://github.com/gaganpreet-dev/aws-static-resume-site'
         }
     ];
 
