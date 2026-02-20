@@ -1,6 +1,7 @@
 # Professional Portfolio - Gaganpreet Singh
 
 Welcome to my personal portfolio repository! I am a **Junior Software Engineer Intern** and **Cloud/Agentic AI Enthusiast** focused on building scalable, automated, and AI-driven solutions.
+<img width="1900" height="5810" alt="portfolio_preview" src="https://github.com/user-attachments/assets/236ac7d9-6c27-430c-bfac-0d359374ed51" />
 
 ![Portfolio Preview](./public/portfolio_preview.png)
 
